@@ -8,6 +8,7 @@ I like to programming with `Java` languange because its fun to experiment with t
 **😎Find me on social media:**
 
 📷[Instagram](https://instagram.com/newpersonf)
+🦆[Twitter](https://twitter.com/fahri_NFT)
 
 - 🌱 I’m currently learning Java languange
 - 👯 I’m looking to collaborate on NFT project
