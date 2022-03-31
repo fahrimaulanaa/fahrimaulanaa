@@ -7,7 +7,7 @@ I like to programming with `Java` languange because its fun to experiment with t
 
 **😎Find me on social media:**
 
-1. 📷[Instagram](https://instagram.com/newpersonf)
+1. 📷[Instagram](https://instagram.com/iniakunfahri)
 2. 🦆[Twitter](https://twitter.com/fahri_NFT)
 
 ## NFT WEBSITE [KLIK DISINI](https://fahrimaulanaa.github.io/)
