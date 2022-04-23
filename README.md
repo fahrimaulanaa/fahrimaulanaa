@@ -19,4 +19,6 @@ I like to programming with `Java` languange because its fun to experiment with t
 
 # Reach me here!
 
-[![gmail (1)](https://user-images.githubusercontent.com/88439222/164862964-304518d9-4d86-4562-aba8-7f3acc31a017.png)](mailto:fahri_ghazali_30rpl@student.smktelkom-mlg.sch.id)
+[![gmail (1)](https://user-images.githubusercontent.com/88439222/164863647-0b23b324-9813-4f04-b553-5532f968e184.png)](mailto:fahri_ghazali_30rpl@student.smktelkom-mlg.sch.id)
+[![linkedin](https://user-images.githubusercontent.com/88439222/164864137-fa87aa8d-4899-4490-931e-333a557eb3a6.png)](https://www.linkedin.com/in/fahri-maulana-51030221a/)
+[![instagram](https://user-images.githubusercontent.com/88439222/164864338-dcdf63f5-158c-45c2-953a-f31bd049864d.png)](https://www.instagram.com/iniakunfahri)
