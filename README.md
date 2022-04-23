@@ -13,9 +13,18 @@ I like to programming with `Java` languange because its fun to experiment with t
 # My statistic in GitHub
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahrimaulanaa&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fahrimaulanaa&theme=github_dark)
+
+![Lampu geser](https://user-images.githubusercontent.com/88439222/164865523-76e64f6a-277c-4020-9661-4804e4392323.gif)
+
 ![](https://github-readme-stats.vercel.app/api?username=fahrimaulanaa&show_icons=true&theme=github_dark)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahrimaulanaa&theme=tokyonight_duo" alt="mystreak"/>
+
+![Lampu geser](https://user-images.githubusercontent.com/88439222/164865523-76e64f6a-277c-4020-9661-4804e4392323.gif)
+
 [![](https://activity-graph.herokuapp.com/graph?username=fahrimaulanaa&theme=react-dark)](AkuraDiary)
+
+![Lampu geser](https://user-images.githubusercontent.com/88439222/164865715-a1ad8c93-86a1-47a6-a075-4e4ce656dbe0.gif)
+
 
 # Reach me here!
 
