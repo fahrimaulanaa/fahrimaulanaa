@@ -1,9 +1,15 @@
 ### Hi Everyone 👋
 
 **👦My name is Fahri Maulana** Im student at `Malang Telkom Vocation School` at `Software Enginering Major`,I am now in the 10th grade.
-I like to programming with `Java` languange because its fun to experiment with the languange
+I like to programming with `Java` languange because its fun to experiment with the languange. Im also learning `python` and `JavaScript`
 
-**🎨Im creating and selling NFT [here](https://opensea.io/fahrinft_collection)**
+
+<br>
+<br>
+
+
+![Programming Languange](https://user-images.githubusercontent.com/88439222/165743208-089d9b11-0557-49aa-a1c7-536e4e9cdaf2.png)
+
 
 **😎Find me on social media:**
 
