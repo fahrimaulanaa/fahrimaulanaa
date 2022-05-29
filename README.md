@@ -3,6 +3,8 @@
 **👦My name is Fahri Maulana** Im student at `Malang Telkom Vocation School` at `Software Enginering Major`,I am now in the 10th grade.
 I like to programming with `Java` languange because its fun to experiment with the languange. Im also learning `python` and `JavaScript`
 
+</br>
+</br>
 
 # My statistic in GitHub
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahrimaulanaa&theme=github_dark)
