@@ -1,7 +1,7 @@
 ### Hi Everyone 👋
 
-**👦My name is Fahri Maulana** Im student at `Malang Telkom Vocation School` at `Software Enginering Major`,I am now in the 11
-th grade.I live in Landungsari, Malang. Now im currently studying `Android Developer` with `Kotlin` programming language.
+**👦My name is Fahri Maulana** Im student at `Malang Telkom Vocation School` at `Software Enginering Major`,I am now in the 12
+th grade.I live in Malang. Now im currently studying `Android Developer` with `Kotlin` programming language. Currently worked as _Fullstack Developer Internship_ at **AirNav Repair Center** located at Yogyakarta International Airport
 </br>
 
 # My statistic in GitHub
