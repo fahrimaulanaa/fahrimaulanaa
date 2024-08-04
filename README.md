@@ -1,4 +1,4 @@
-e### Hi Everyone 👋
+### Hi Everyone 👋
 
 <h1 align="center">Hi 👋, I'm Fahri Maulana Al Ghazali</h1>
 <h3 align="center">Fullstack Developer Internship at AirNav Repair Center located on Yogyakarta International Airport</h3>
