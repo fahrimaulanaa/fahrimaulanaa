@@ -1,12 +1,12 @@
 ### Hi Everyone 👋
 
 <h1 align="center">Hi 👋, I'm Fahri Maulana Al Ghazali</h1>
-<h3 align="center">Fullstack Developer Internship at AirNav Repair Center located on Yogyakarta International Airport</h3>
+<h3 align="center">First Year Student at Faculty of Civil Engineering and Environment Bandung Institute of Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahrimaulanaa&label=Profile%20views&color=0e75b6&style=flat" alt="fahrimaulanaa" /> </p>
 
 
-- 🌱 I’m currently learning **NextJS, Node.js, React**
+- 🌱 I’m currently learning **NextJS, Node.js, React, Python**
 
 - 📫 How to reach me **fahrimaulanaa127@gmail.com**
 
